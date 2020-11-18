@@ -1,21 +1,27 @@
+body {
+  padding-bottom: 30px;
+}
+
 #story {
   display: none;
 }
 
 img {
-  width: 200px;
+  width: 400px;
 }
 
 .postcard {
   position: relative;
-  text-align: center;
+  text-align: left;
   color: black;
 }
 
 /* Place postcard text */
 .centered {
   position: absolute;
-  top: 20%;
-  left: 10%;
+  top: 54%;
+  left: 25%;
   transform: translate(-50%, -50%);
+  max-width: 45ch;
+  font-size: 20px;
 }
