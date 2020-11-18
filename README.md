@@ -11,7 +11,7 @@ _The purpose of this website is to demonstrate the usage of JavaScript form fiel
 ## Setup/Installation Requirements
 
 * _Click the link below to access the browser. Tested in Firefox._
-* __
+* _https://kirbypaint.github.io/letter/_
 
 ## Known Bugs
 
